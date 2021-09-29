@@ -1,0 +1,42 @@
+  .shallot
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 23px;
+  }
+  .ssj2
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float:none;
+  }
+  .fod
+  {
+    font-size: 18px ;
+  }
+  .eg
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+.eg span{
+  white-space: pre-line;
+}
+.copy_right_footer{
+  text-align: center;
+  position: fixed;
+  bottom:0px;
+  width:100%;
+  color:mediumseagreen;
+  background-color: goldenrod;
+  line-height: 3;
+}
+canvas{
+  border:5px solid purple;
+  border-radius:20px;
+  box-shadow: 5px 5px 5px black;
+  margin-top: 160px;
+}
